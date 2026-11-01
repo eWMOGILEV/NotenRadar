@@ -1,47 +1,36 @@
-[Link zur Website](https://ewmogilev.github.io/Notenkompass/)
-# Notenkompass
+﻿# Notenkompass
 
-Ein Notenrechner mit Risikoanalyse für Computer und Handy.
+Notenkompass ist ein Notenrechner für einzelne Schulfächer. Du kannst Schulaufgaben und kleine Leistungsnachweise mit ihrer jeweiligen Gewichtung eintragen. Daraus wird der aktuelle Durchschnitt berechnet.
 
-## Funktionen
+Eine einstellbare Zielgrenze hilft dabei, den aktuellen Stand einzuordnen. Mit der Planung kannst du mögliche kommende Noten durchspielen und sehen, wie sie den Schnitt verändern würden. Die Risikoansicht zeigt rechnerisch, welche weiteren Noten mit der gewählten Zielgrenze vereinbar sind.
 
-- Mehrere Fächer anlegen und verwalten
-- Notendurchschnitt mit individuellen Gewichtungen berechnen
-- Ermitteln, welche Noten du zum Bestehen brauchst
-- Prüfen, wie viele Fünfer oder Sechser noch möglich sind
-- Kommende Noten mit „Was wäre wenn?“ durchspielen
-- Computer- und Handyansicht auswählen und jederzeit wechseln
-- Hell-/Dunkelmodus, Akzentfarben und sanfte Animationen
+Es gibt eine Handy- und eine Computeransicht. Fächer und Noten werden im Browser gespeichert und lassen sich als Datei exportieren und wieder öffnen.
 
-## Berechnung
+[Website](https://ewmogilev.github.io/Notenkompass/)
 
-**(2 × Schulaufgaben-Schnitt + KL-Schnitt) ÷ 3**
+## Screenshots
 
-Die voreingestellte Zielgrenze ist ein Schnitt unter **4,50**.
-Du kannst sie in den Einstellungen ändern.
+### Computer
 
-Die Analyse bezieht sich auf ein einzelnes Fach und entscheidet
-nicht über die Versetzung.
+<a href="assets/screenshots/desktop.png">
+  <img src="assets/screenshots/desktop.png" width="1000" alt="Computeransicht mit Noteneingabe und Berechnung">
+</a>
 
-## Starten
+### Handy
 
-Öffne die GitHub-Pages-Seite im Browser.
+<table>
+  <tr>
+    <th>Übersicht</th>
+    <th>Noten</th>
+    <th>Planung</th>
+  </tr>
+  <tr>
+    <td><a href="assets/screenshots/mobile-overview.png"><img src="assets/screenshots/mobile-overview.png" width="250" alt="Übersicht im Dunkelmodus"></a></td>
+    <td><a href="assets/screenshots/mobile-grades.png"><img src="assets/screenshots/mobile-grades.png" width="250" alt="Liste der eingetragenen Noten"></a></td>
+    <td><a href="assets/screenshots/mobile-planning.png"><img src="assets/screenshots/mobile-planning.png" width="250" alt="Planung mit möglichen kommenden Noten"></a></td>
+  </tr>
+</table>
 
-Alternativ kannst du die `index.html` herunterladen und direkt
-öffnen. Eine Installation ist nicht nötig.
+Die Ergebnisse dienen zur Orientierung und können von den offiziellen Schulnoten abweichen.
 
-## Deine Daten
-
-Deine Fächer und Noten werden ausschließlich in deinem Browser
-gespeichert. Es gibt keine automatische Synchronisierung
-zwischen Geräten.
-
-Über **Speichern/Exportieren** kannst du eine Sicherungsdatei
-herunterladen und über **Öffnen** wieder einlesen.
-
-Exportiere regelmäßig eine Sicherung, da beim Löschen von
-Browserdaten auch deine gespeicherten Noten verloren gehen können.
-
-## Autor
-
-Ewan Mogilevsky
+Erstellt von **Ewan Mogilevsky**.
