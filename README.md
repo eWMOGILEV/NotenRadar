@@ -1,43 +1,47 @@
-**NEU: WEBSITE-VERSION**
-  [Drücke Hier!](https://ewmogilev.github.io/FailLimit/)
+[Link zur Website](https://ewmogilev.github.io/Notenkompass/)
+# Notenkompass
 
+Ein Notenrechner mit Risikoanalyse für Computer und Handy.
 
-Nutzung (nicht website) (nur auf PC)
+## Funktionen
 
-Es gibt aktuell zwei Möglichkeiten, das Programm zu verwenden:
+- Mehrere Fächer anlegen und verwalten
+- Notendurchschnitt mit individuellen Gewichtungen berechnen
+- Ermitteln, welche Noten du zum Bestehen brauchst
+- Prüfen, wie viele Fünfer oder Sechser noch möglich sind
+- Kommende Noten mit „Was wäre wenn?“ durchspielen
+- Computer- und Handyansicht auswählen und jederzeit wechseln
+- Hell-/Dunkelmodus, Akzentfarben und sanfte Animationen
 
-Option 1: .exe-Datei (einfachste Methode)
+## Berechnung
 
-Du lädst die .exe-Datei herunter und startest sie direkt durch einen Doppelklick.
+**(2 × Schulaufgaben-Schnitt + KL-Schnitt) ÷ 3**
 
-Vorteil:
+Die voreingestellte Zielgrenze ist ein Schnitt unter **4,50**.
+Du kannst sie in den Einstellungen ändern.
 
-Sehr einfach
-Kein Python notwendig
+Die Analyse bezieht sich auf ein einzelnes Fach und entscheidet
+nicht über die Versetzung.
 
-Option 2: Python-Version (transparent & nachvollziehbar)
+## Starten
 
-Falls man .exe-Dateien nicht vertraut (was absolut nachvollziehbar ist), kann man den Code direkt ausführen.
+Öffne die GitHub-Pages-Seite im Browser.
 
-Dafür benötigt man Python.
+Alternativ kannst du die `index.html` herunterladen und direkt
+öffnen. Eine Installation ist nicht nötig.
 
-So geht es:
+## Deine Daten
 
-Lade die Datei FailLimit.py herunter
-Öffne den Ordner, in dem die Datei gespeichert ist
-Rechtsklick → „Im Terminal öffnen“
-Führe folgenden Befehl aus:
-"python FailLimit.py"
+Deine Fächer und Noten werden ausschließlich in deinem Browser
+gespeichert. Es gibt keine automatische Synchronisierung
+zwischen Geräten.
 
-Warum sollte man Option 2 wählen?
+Über **Speichern/Exportieren** kannst du eine Sicherungsdatei
+herunterladen und über **Öffnen** wieder einlesen.
 
-Viele Nutzer entscheiden sich für die zweite Option, obwohl die erste deutlich einfacher ist.
+Exportiere regelmäßig eine Sicherung, da beim Löschen von
+Browserdaten auch deine gespeicherten Noten verloren gehen können.
 
-Der Grund ist Vertrauen:
-Bei einer .exe-Datei kann man den Inhalt nicht direkt einsehen. Das führt bei manchen zu Unsicherheit.
+## Autor
 
-Die Python-Version hingegen ist vollständig offen einsehbar, da der Code direkt vorliegt. Deshalb wirkt diese Variante für viele transparenter und sicherer.
-
-Ich versichere aber: Die .exe wurde direkt aus FailLimit.py erstellt und enthält exakt denselben Code, lediglich verpackt für eine einfachere Ausführung.
-
-Ich suche gerade für einen Umweg, um es auf dem Handy auszuführen.
+Ewan Mogilevsky
