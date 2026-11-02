@@ -1,10 +1,12 @@
 ﻿# Notenkompass
 
-Notenkompass ist ein Notenrechner für einzelne Schulfächer. Du kannst Schulaufgaben und kleine Leistungsnachweise mit ihrer jeweiligen Gewichtung eintragen. Daraus wird der aktuelle Durchschnitt berechnet.
+Notenkompass ist ein Notenrechner für Schulfächer. Du kannst Schulaufgaben und kleine Leistungsnachweise mit Datum und Gewichtung eintragen. Das Verhältnis der beiden Notengruppen lässt sich pro Fach einstellen.
 
 Eine einstellbare Zielgrenze hilft dabei, den aktuellen Stand einzuordnen. Mit der Planung kannst du mögliche kommende Noten durchspielen und sehen, wie sie den Schnitt verändern würden. Die Risikoansicht zeigt rechnerisch, welche weiteren Noten mit der gewählten Zielgrenze vereinbar sind.
 
-Es gibt eine Handy- und eine Computeransicht. Fächer und Noten werden im Browser gespeichert und lassen sich als Datei exportieren und wieder öffnen.
+Die Übersicht zeigt alle Fächer. Zusätzliche Werkzeuge für Prüfungstermine, Notenverlauf, Filter und gespeicherte Planszenarien sind aufklappbar. Schuljahre und Halbjahre lassen sich getrennt verwalten und archivieren.
+
+Es gibt eine Handy- und eine Computeransicht. Fächer und Noten werden im Browser gespeichert und lassen sich einschließlich der archivierten Zeiträume als Sicherungsdatei herunterladen und wieder öffnen. Unter „Verwalten“ gibt es lokale Wiederherstellungspunkte und eine Druckansicht, die sich über den Browser als PDF speichern lässt. Lokale Wiederherstellungspunkte ersetzen keine heruntergeladene Sicherung.
 
 [Website](https://ewmogilev.github.io/Notenkompass/)
 
