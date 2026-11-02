@@ -22,12 +22,12 @@ Es gibt eine Handy- und eine Computeransicht. Fächer und Noten werden im Browse
   <tr>
     <th>Übersicht</th>
     <th>Noten</th>
-    <th>Planung</th>
+    <th>Risiko</th>
   </tr>
   <tr>
     <td><a href="assets/screenshots/mobile-overview.png"><img src="assets/screenshots/mobile-overview.png" width="250" alt="Übersicht im Dunkelmodus"></a></td>
     <td><a href="assets/screenshots/mobile-grades.png"><img src="assets/screenshots/mobile-grades.png" width="250" alt="Liste der eingetragenen Noten"></a></td>
-    <td><a href="assets/screenshots/mobile-planning.png"><img src="assets/screenshots/mobile-planning.png" width="250" alt="Planung mit möglichen kommenden Noten"></a></td>
+    <td><a href="assets/screenshots/mobile-risk.png"><img src="assets/screenshots/mobile-risk.png" width="250" alt="Risikoansicht mit weiteren Notenszenarien"></a></td>
   </tr>
 </table>
 
