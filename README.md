@@ -1,4 +1,6 @@
-﻿# Notenkompass
+﻿![Notenkompass Banner](assets/screenshots/Banner.png)
+
+# Notenkompass
 
 Notenkompass ist ein Notenrechner für Schulfächer. Du kannst Schulaufgaben und kleine Leistungsnachweise mit Datum und Gewichtung eintragen. Das Verhältnis der beiden Notengruppen lässt sich pro Fach einstellen.
 
