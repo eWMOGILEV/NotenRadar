@@ -66,7 +66,7 @@ async function loadApp(request) {
   } catch {
     const installed = await cache?.match(APP_PAGE);
     if (installed) return installed;
-    throw Error('Notenkompass is unavailable offline');
+    throw Error('NotenRadar is unavailable offline');
   } finally {
     clearTimeout(timer);
   }

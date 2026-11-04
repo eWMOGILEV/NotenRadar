@@ -1,8 +1,8 @@
-﻿![Notenkompass Banner](assets/screenshots/Banner.png)
+﻿![NotenRadar Banner](assets/screenshots/Banner-NotenRadar.png)
 
-# Notenkompass
+# NotenRadar
 
-Notenkompass ist ein Notenrechner für Schulfächer. Du kannst Schulaufgaben und kleine Leistungsnachweise mit Datum und Gewichtung eintragen. Das Verhältnis der beiden Notengruppen lässt sich pro Fach einstellen.
+NotenRadar ist ein Notenrechner für Schulfächer. Du kannst Schulaufgaben und kleine Leistungsnachweise mit Datum und Gewichtung eintragen. Das Verhältnis der beiden Notengruppen lässt sich pro Fach einstellen.
 
 Eine einstellbare Zielgrenze hilft dabei, den aktuellen Stand einzuordnen. Mit der Planung kannst du mögliche kommende Noten durchspielen und sehen, wie sie den Schnitt verändern würden. Die Risikoansicht zeigt rechnerisch, welche weiteren Noten mit der gewählten Zielgrenze vereinbar sind.
 
@@ -10,7 +10,7 @@ Die Übersicht zeigt alle Fächer. Zusätzliche Werkzeuge für Prüfungstermine,
 
 Es gibt eine Handy- und eine Computeransicht. Fächer und Noten werden im Browser gespeichert und lassen sich einschließlich der archivierten Zeiträume als Sicherungsdatei herunterladen und wieder öffnen. Unter „Verwalten“ gibt es lokale Wiederherstellungspunkte und eine Druckansicht, die sich über den Browser als PDF speichern lässt. Lokale Wiederherstellungspunkte ersetzen keine heruntergeladene Sicherung.
 
-[Website](https://ewmogilev.github.io/Notenkompass/)
+[Website](https://ewmogilev.github.io/NotenRadar/)
 
 ## Screenshots
 
